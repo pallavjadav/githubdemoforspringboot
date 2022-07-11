@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.05dbboot</groupId>
-	<artifactId>05dbboot</artifactId>
+	<artifactId>gitdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>05dbboot</name>
